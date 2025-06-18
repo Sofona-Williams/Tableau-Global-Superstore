@@ -40,6 +40,9 @@ The dashboard includes several interactive filters to drill down into specific d
 ## 🛠️ Technologies Used
 Tableau Public: The dashboard is built and hosted on Tableau Public, leveraging its powerful visualization capabilities.
 
+----
+<img width="959" alt="Global Superstore " src="https://github.com/user-attachments/assets/4a63c544-4332-49e9-8cdf-f9be6482bf4c" />
+
 
 
 ---
